@@ -13,7 +13,7 @@ This system is for just such people. It will save you time and money. Instead of
 - Design view - With a view to preparing the way based on layers and classes will be readable on any device connected to the Internet.
 - Archives - You can at any time check the results looked like at any time through the archives, which also gives you the ability to sort results.
 
-Home page: [phpBlueDragon HrefSystem](http://phpbluedragon.eu/documentation/phpbluedragon-hrefsystem/)
+Home page: http://phpbluedragon.eu/documentation/phpbluedragon-hrefsystem/
 
 ## Requirements
 
