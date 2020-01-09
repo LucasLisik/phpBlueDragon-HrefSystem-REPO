@@ -1,4 +1,4 @@
-#phpBlueDragon HrefSystem
+# phpBlueDragon HrefSystem
 
 The system is designed to keep track of links to their sites on the Internet. You probably know how important these days are links from other websites to yours. It is mainly thanks to them and appropriately selected and edited content page trunks in Google results.
 The system allows you to add links to your site and forget about checking every few days if they even exist at all. You receive a letter e-mail sent from the system and anything you do not have to worry about. You no longer have to spend hours checking work that can be done by machine.
@@ -15,7 +15,7 @@ This system is for just such people. It will save you time and money. Instead of
 
 Home page: [phpBlueDragon HrefSystem](http://phpbluedragon.eu/documentation/phpbluedragon-hrefsystem/)
 
-##Requirements
+## Requirements
 
 The requirements are absolutely without which you can not use the software due to its construction and to facilitate the interface for the user.
 
@@ -23,14 +23,13 @@ The requirements are absolutely without which you can not use the software due t
 - PHP 5.6
 - MySQL 5
 
-
 The work requires (your browser)
 - JavaScript
 - Browser with AJAX
 
 During the installation of some of these requirements is checked by the installer.
 
-##Copyright notice and used components
+## Copyright notice and used components
 
 Because I used a few ready-made components and software solutions I put all the information about their authors as required.
 
