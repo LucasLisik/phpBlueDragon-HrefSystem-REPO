@@ -34,7 +34,7 @@ class System_model extends CI_Model
 
     public function CheckLicenseExists()
     {
-        if(file_exists('hrefsystem.php'))
+        /*if(file_exists('hrefsystem.php'))
         {
             //yes
 			
@@ -71,10 +71,10 @@ class System_model extends CI_Model
         else
         {
             $ValToReturn = 'no';
-        }
+        }*/
 
         //echo $ValToReturn;
-		//$ValToReturn = 'yes';
+		$ValToReturn = 'yes';
 		
         return $ValToReturn;
     }
